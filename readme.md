@@ -92,6 +92,7 @@ The easiest way to install Carbon is via [composer](http://getcomposer.org/). Cr
     }
 }
 ```
+In Lavaral 4, add `'Carbon' => 'Carbon\Carbon',`  to alias on app/config/app.php.
 
 ```php
 <?php
